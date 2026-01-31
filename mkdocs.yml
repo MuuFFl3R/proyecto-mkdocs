@@ -1,0 +1,11 @@
+site_name: Proyecto de Ramses Gomez Perez
+site_url: https://TU_USUARIO.github.io/proyecto-mkdocs/
+
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Formación y experiencia: formacion.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
